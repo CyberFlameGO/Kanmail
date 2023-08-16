@@ -14,7 +14,7 @@ blinker==1.4
     # via sentry-sdk
 bsdiff4==1.1.5
     # via pyupdater
-certifi==2020.12.5
+certifi==2023.7.22
     # via
     #   pyupdater
     #   requests
