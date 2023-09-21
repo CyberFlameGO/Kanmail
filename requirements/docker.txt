@@ -30,7 +30,7 @@ click==7.0
     # via
     #   -r requirements/base.in
     #   flask
-cryptography==37.0.2
+cryptography==41.0.4
     # via secretstorage
 defusedxml==0.7.0
     # via -r requirements/base.in
