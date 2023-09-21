@@ -44,7 +44,7 @@ click==7.0
     # via
     #   -r requirements/base.in
     #   flask
-cryptography==37.0.1
+cryptography==41.0.4
     # via secretstorage
 decorator==5.1.1
     # via
