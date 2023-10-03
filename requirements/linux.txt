@@ -132,7 +132,7 @@ stevedore==3.3.0
     # via pyupdater
 tld==0.9.1
     # via -r requirements/base.in
-urllib3==1.26.6
+urllib3==1.26.17
     # via
     #   pyupdater
     #   requests
