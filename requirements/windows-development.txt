@@ -236,7 +236,7 @@ typed-ast==1.4.3
     # via mypy
 typing-extensions==4.2.0
     # via mypy
-urllib3==1.26.9
+urllib3==1.26.18
     # via
     #   botocore
     #   pyupdater
