@@ -141,7 +141,7 @@ urllib3==1.26.4
     #   sentry-sdk
 webencodings==0.5.1
     # via bleach
-werkzeug==1.0.1
+werkzeug==3.0.1
     # via flask
 
 # The following packages are considered to be unsafe in a requirements file:
